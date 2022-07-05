@@ -5,3 +5,4 @@ card.addEventListener('click', function () {
 })
 
 console.log(window.location.href);
+

@@ -18,27 +18,14 @@ body {
 .cardd {
     align-self: center;
     justify-self: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    height: 20rem;
-   border-top-left-radius: 10px;
-   border-top-right-radius: 10px;
-    width: 18rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.25);
-    flex-direction: column;
-    transition: 0.5s;
-    text-decoration: none;
+   
 }
 
-h2 {
+h3 {
     font-size: 2rem;
     margin: 0 0;
     margin-top: 1rem;
-    margin-bottom: 0.3rem;
+    margin-bottom: 1rem;
 }
 h4 {
     margin: 0 0;
@@ -47,9 +34,10 @@ h4 {
 .album {
     background-image: url('/img/album.jpeg');
 }
+
+
 .code {
     height: 5rem;
     width: 18rem;
-    border-end-start-radius: 10px;
-    border-end-end-radius: 10px;
+   border-radius: 20px;
 }
