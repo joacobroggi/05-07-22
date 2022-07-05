@@ -38,7 +38,7 @@ body {
     font-size: 2.5rem;
 }
 .album {
-    background-image: url('/img/album.jpeg');
+    background-image: url('img/album.jpeg');
 }
 
 @media only screen and (max-width: 600px) and (min-width: 100px) {
