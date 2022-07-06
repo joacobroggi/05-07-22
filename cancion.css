@@ -26,9 +26,14 @@ h3 {
     margin: 0 0;
     margin-top: 1rem;
     margin-bottom: 1rem;
+    font-family: 'Poppins', sans-serif;
 }
 h4 {
     margin: 0 0;
+    font-family: 'Poppins', sans-serif;
+}
+h2 {
+    font-family: 'Poppins', sans-serif;
 }
 
 .album {
@@ -39,5 +44,5 @@ h4 {
 .code {
     height: 5rem;
     width: 18rem;
-   border-radius: 20px;
+    border-radius: 20px;
 }

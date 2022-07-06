@@ -94,7 +94,10 @@ h2 {
 .next {
     background: url('img/next.jpg');
 }
-
+h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
 
 @media only screen and (max-width: 5000px) and (min-width: 100px) {
     
